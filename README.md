@@ -21,6 +21,26 @@ Platform: Console-based (cross-platform)
 ├── main.cpp          # Main source file
 ├── README.md         # Project description
 
+🚀 How to Run
+Prerequisites
+C++ Compiler (g++, clang++, etc.)
+Terminal or Command Prompt
+Steps
+bash
+Copy
+Edit
+# Clone the repo
+git clone https://github.com/your-username/student-record-management
+
+# Navigate into the project
+cd student-record-management
+
+# Compile the project
+g++ main.cpp -o student_manager
+
+# Run the executable
+./student_manager
+
 🌱 Learning Outcomes
 Strong understanding of file handling
 Hands-on with object-oriented programming
